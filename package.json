@@ -15,7 +15,7 @@
     "monitor",
     "node"
   ],
-  "author": "Le Hoang My",
+  "author": "Pham Trong Thuan",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
